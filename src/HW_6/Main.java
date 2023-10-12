@@ -1,6 +1,6 @@
-package seminars.HW_6;
+package HW_6;
 
-import static seminars.HW_6.Average.averageArrays;
+import static HW_6.Average.averageArrays;
 
 public class Main {
     public static void main(String[] args) {

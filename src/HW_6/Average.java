@@ -1,4 +1,4 @@
-package seminars.HW_6;
+package HW_6;
 
 
 public class Average {

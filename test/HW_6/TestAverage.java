@@ -4,7 +4,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static seminars.HW_6.Average.averageArrays;
+import static HW_6.Average.averageArrays;
 
 public class TestAverage {
 
